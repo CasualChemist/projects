@@ -1,5 +1,5 @@
 # projects
-A folder for projects that are ready to ship
+A folder for projects that are ready to ship.
 
 This folder contains projects that are 'completed', meaning they serve their intended purpose 
 but aren't necessarily the most refined or elegant that they could be. These would be seen as
